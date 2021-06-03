@@ -11,6 +11,8 @@
 - course
 
 ## Trainee
+- login by email or SNS
+- 同時に1人のみ
 - course
 
 ## Course
@@ -26,9 +28,10 @@
 ## Examination
 - 試験モード
 - 練習モード
+- Smart Phone
 
 ## Survey
-- stat
+- Stat
 
 ## Exercise
-- python
+- Python
